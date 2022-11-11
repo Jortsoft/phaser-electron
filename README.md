@@ -1,9 +1,13 @@
 # phaser-electron
 
 clone project: [ git clone https://github.com/Jortsoft/phaser-electron.git ]
+
 enter project directory [ cd phaser-electron ]
+
 enter electron folder [ cd electron ]
+
 install modules [ npm i ]
+
 Done electron is ready!
 
 if you can run electron app to development mode run
