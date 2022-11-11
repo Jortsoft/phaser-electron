@@ -1,5 +1,8 @@
 # phaser-electron
 
+![New Project](https://user-images.githubusercontent.com/48485731/201317490-ee68cb27-8e89-411d-a8db-db7f7fa110f9.png)
+
+
 clone project: [ git clone https://github.com/Jortsoft/phaser-electron.git ]
 
 enter project directory [ cd phaser-electron ]
