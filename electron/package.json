@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "make": "electron-forge make"
+  },
+  "author": "Jortsoft",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.1",
+    "electron": "^21.2.2",
+    "electron-builder": "^23.6.0",
+    "electron-installer-dmg": "^4.0.0",
+    "electron-packager": "^17.1.1"
+  },
+  "dependencies": {
+    "import": "^0.0.6"
+  }
+}
