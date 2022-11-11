@@ -13,7 +13,7 @@ install modules [ npm i ]
 
 Done electron is ready!
 
-alos project include server folder with Node.js & express. its back-end Side for online game!
+also project include server folder with Node.js & express. its back-end Side for online game!
 if you want use server side enter server directory!
 
 [ cd server ]
